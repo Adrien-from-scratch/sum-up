@@ -1,0 +1,28 @@
+.button {
+	background-color:#440063;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+}
+
+.banner-button {
+    display: flex;
+    background-color: #440063;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+
+.banner-button:hover{
+  background-color: #EB9486;
+  color: white;
+}
+
+.button:hover{
+  background-color: #EB9486;
+  color: white;
+}
